@@ -1,0 +1,9 @@
+ 
+POST http://localhost:3000/send/mail
+Content-Type: application/json
+
+{
+    "name": "Tamalika Bose",
+    "userEmail":"tamalika.basu1997@gmail.com",
+    "roll":"185***46"
+}
